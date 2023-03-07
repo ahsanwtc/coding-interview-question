@@ -9,7 +9,7 @@ Given an integer array `nums` and a window of size `w`, find the current maximum
 #### Constraints:
 - $ 1 \leq nums.length \leq 10^3 $
 - $ -10^4 \leq nums[i] \leq 10^4 $
-- $ 1 \leq w$
+- $1 \leq w$
 
 #### Solution
 [find-maximum-in-sliding-window.js](./sliding-window/find-maximum-in-sliding-window.js)
